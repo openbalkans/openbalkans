@@ -11,4 +11,4 @@ You can read the specification [here][Specs]
 
 
 [Specs]: https://github.com/mvasilkov/OpenBalkans
-[PythonImp]: https://github.com/openbalkans/openbalkans-python
+[PythonImpl]: https://github.com/openbalkans/openbalkans-python
